@@ -1,0 +1,57 @@
+body {
+    background-image: url("images/wp1945897.jpg");
+    background-size: contain;
+    font-family: sans-serif;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.established {
+    font-style: italic;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.showtimes {
+    width: 80%;
+    background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+hr {
+    height: 2px;
+    background-color: aqua;
+    border-color: aqua;
+}
+
+.showtime p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.name {
+    text-align: left;
+    width: 75%;
+}
+
+.time {
+    text-align: right;
+    width: 25%;
+}
