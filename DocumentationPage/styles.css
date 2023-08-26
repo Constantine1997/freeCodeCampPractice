@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    padding: 20px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.navbar .nav-link, .navbar header {
+    padding: 15px;
+    margin: 5px 0;
+}
