@@ -1,0 +1,17 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li {
+    margin: 0 15px;  /* 0 top/bottom margin, 15px left/right margin */
+}
